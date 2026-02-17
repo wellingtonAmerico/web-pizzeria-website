@@ -40,7 +40,7 @@ The layout adapts automatically to:
 
 ## 🚀 Live Demo
 
-(we will add this later)
+https://wellingtonamerico.github.io/web-pizzeria-website/
 
 ---
 
