@@ -1,50 +1,72 @@
-# 🍕 Web Pizzeria Website
+# Web Pizzeria Website
 
-Responsive website for a fictional pizza restaurant built with HTML, CSS and JavaScript.
+Responsive website developed for a fictional pizza restaurant.
 
-This project was created to practice:
-- Responsive layout
-- Mobile-first design
-- Navigation patterns
-- UI structure for small businesses
+The project was created to practice responsive layouts, front-end organization and navigation patterns for small business websites.
 
 ---
 
-## 🧩 Features
-
-- Desktop and mobile navigation
-- Responsive hero section
-- Product cards layout
-- Mobile hamburger menu (jQuery)
-
----
-
-## 🛠 Technologies
-
-- HTML5
-- CSS3 (media queries)
-- JavaScript
-- jQuery
-
----
-
-## 📱 Responsive Design
-
-The layout adapts automatically to:
-- Mobile
-- Tablet
-- Desktop
-- Ultra wide screens
-
----
-
-## 🚀 Live Demo
+## Deploy
 
 https://wellingtonamerico.github.io/web-pizzeria-website/
 
 ---
 
-## 👤 Author
+## Technologies Used
 
-**Wellington Américo**  
-Software Engineer focused on Web, Data and Business Automation
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- Git
+- GitHub
+- GitHub Pages
+
+---
+
+## Project Structure
+
+```bash
+web-pizzeria-website/
+│
+├── css/
+├── img/
+├── js/
+│
+├── index.html
+└── README.md
+```
+
+---
+
+## Features
+
+- Responsive layout
+- Desktop and mobile navigation
+- Hero section
+- Product cards
+- Mobile hamburger menu
+- Media queries for multiple screen sizes
+
+---
+
+## What Was Practiced
+
+- Responsive web development
+- Mobile navigation patterns
+- UI structure for commercial websites
+- Front-end asset organization
+- Git version control
+- Website publishing with GitHub Pages
+
+---
+
+## Author
+
+Wellington Américo
+
+LinkedIn:
+https://www.linkedin.com/in/wellington-am%C3%A9rico/
+
+GitHub:
+https://github.com/wellingtonAmerico
